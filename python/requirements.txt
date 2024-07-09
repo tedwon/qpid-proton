@@ -4,3 +4,4 @@ wheel
 flake8
 tox>=1.7.2
 cffi>=1.0.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
